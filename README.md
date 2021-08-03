@@ -14,3 +14,7 @@
 여러분이 원하는 단어를 words 리스트에 넣으시면 랜덤으로 1개를 뽑아 게임의 단어로 선정합니다.
 
      words = ["apple","banana","orange","collagen","economics","global"]
+
+test_hangman 함수를 사용하여 단어의 알파벳과 플레이어의 알파벳 입력이 맞는지 검증합니다.
+     
+     def test_hangman():
