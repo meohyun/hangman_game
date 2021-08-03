@@ -8,3 +8,6 @@
 
 10번의 기회가 있고 10번째 틀리면 game over 됩니다
 
+
+
+  words = ["apple","banana","orange","collagen","economics","global"]
