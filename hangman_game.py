@@ -9,7 +9,7 @@ def sumOfList(llist):
   return sum
 
 # list
-words = ["apple","banana","orange","collagen","economics","global"]
+words = ["apple","banana","orange","collagen","economics","global","duck"]
 alphabets = []
 sums = [0,0]
 texts = [0]
